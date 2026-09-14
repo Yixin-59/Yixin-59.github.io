@@ -1,36 +1,46 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-## Yixin Chen
-
-Undergraduate Student, Zhejiang University  
-[3240106213@zju.edu.cn](mailto:3240106213@zju.edu.cn)
+<p class="section-intro">Yixin Chen · Undergraduate Student · Zhejiang University</p>
 
 ## Education
+{% include profile/education.html %}
 
-**Zhejiang University**  
-Undergraduate studies in Microelectronics Science and Engineering  
-College of Information Science and Electronic Engineering
+## Academic Performance
 
-Academic research track, **Shannon Honors Program**.
+<div class="academic-stats">
+  <div><strong>1 / 56</strong><span>Major ranking</span></div>
+  <div><strong>4.76 / 5.00</strong><span>Overall GPA</span></div>
+  <div><strong>4.83 / 5.00</strong><span>Major GPA</span></div>
+  <div><strong>93.40 / 100</strong><span>Average score</span></div>
+</div>
+
+<p class="entry-meta">Ranked first in the major for two consecutive academic years.</p>
+
+**Relevant coursework:** Fundamentals of Electronic Circuits, Digital System Design, Semiconductor Physics, Signals and Systems, Artificial Intelligence, and Numerical Analysis.
+
+## Publications
+{% include profile/publications.html %}
 
 ## Research
+{% include profile/research.html %}
 
-Advisor: **Professor Xiaopeng Yu**, School of Integrated Circuits.
+## Awards
+{% include profile/awards.html %}
 
-Research interests: Analog EDA and RFIC inverse design.
+## Skills
+{% include profile/skills.html %}
 
-Ongoing work:
+## Academic Interests
 
-- Design and optimization of pixelated RFICs.
-- Analog integrated circuit design agents.
+Analog EDA and RFIC inverse design. I aim to pursue a direct PhD program in analog integrated circuit design, focusing on high-speed, high-precision ADC design.
 
-## Academic Goals
+## Contact
 
-I aim to pursue a direct PhD program in analog integrated circuit design, with a focus on high-speed, high-precision ADC design.
+[3240106213@zju.edu.cn](mailto:3240106213@zju.edu.cn) · [GitHub](https://github.com/Yixin-59)

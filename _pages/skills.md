@@ -1,7 +1,8 @@
 ---
+layout: single
 title: "Skills"
 permalink: /skills/
 author_profile: true
 ---
 
-Details will be added soon.
+{% include profile/skills.html %}
