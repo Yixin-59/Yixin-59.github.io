@@ -14,11 +14,8 @@ redirect_from:
 
 ## Academic Performance
 
-<div class="academic-stats">
+<div class="academic-stats" style="grid-template-columns: 1fr;">
   <div><strong>1 / 56</strong><span>Major ranking</span></div>
-  <div><strong>4.76 / 5.00</strong><span>Overall GPA</span></div>
-  <div><strong>4.83 / 5.00</strong><span>Major GPA</span></div>
-  <div><strong>93.40 / 100</strong><span>Average score</span></div>
 </div>
 
 <p class="entry-meta">Ranked first in the major for two consecutive academic years.</p>
