@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "个人主页"
+title                    : "Yixin Chen"
 title_separator          : "-"
-name                     : &name "姓名待填写"
-description              : &description "个人主页，内容准备中。"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Yixin Chen"
+description              : &description "Yixin Chen is an undergraduate student at Zhejiang University researching Analog EDA and RFIC inverse design."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://yixin-59.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "Yixin-59/Yixin-59.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo.jpg"
-  name             : "姓名待填写"
+  name             : "Yixin Chen"
   pronouns         : # example: "she/her"  
-  bio              : "个人资料待补充"
+  bio              : "Undergraduate Student"
   location         :
-  employer         :
+  employer         : "Zhejiang University"
   uri              : # URL
-  email            : 
+  email            : "3240106213@zju.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -85,11 +85,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: '专著'
+    title: 'Books'
   manuscripts:
-    title: '期刊论文'    
+    title: 'Journal Articles'    
   conferences:
-    title: '会议论文'
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

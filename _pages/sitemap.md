@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "网站地图"
+title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
+[About Me]({{ '/' | relative_url }})
 
 {% for item in site.data.navigation.main %}
 - [{{ item.title }}]({{ item.url | relative_url }})

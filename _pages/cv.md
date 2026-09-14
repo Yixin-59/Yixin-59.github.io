@@ -1,24 +1,36 @@
 ---
 layout: archive
-title: "简历"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-## 教育经历
+## Yixin Chen
 
-待补充。
+Undergraduate Student, Zhejiang University  
+[3240106213@zju.edu.cn](mailto:3240106213@zju.edu.cn)
 
-## 工作与实习经历
+## Education
 
-待补充。
+**Zhejiang University**  
+Undergraduate studies in Microelectronics Science and Engineering  
+College of Information Science and Electronic Engineering
 
-## 荣誉与奖励
+Academic research track, **Shannon Honors Program**.
 
-待补充。
+## Research
 
-## 技能
+Advisor: **Professor Xiaopeng Yu**, School of Integrated Circuits.
 
-待补充。
+Research interests: Analog EDA and RFIC inverse design.
+
+Ongoing work:
+
+- Design and optimization of pixelated RFICs.
+- Analog integrated circuit design agents.
+
+## Academic Goals
+
+I aim to pursue a direct PhD program in analog integrated circuit design, with a focus on high-speed, high-precision ADC design.

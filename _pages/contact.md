@@ -1,7 +1,10 @@
 ---
-title: "联系"
+title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
 
-联系方式待补充。
+**Yixin Chen**  
+Undergraduate Student, Zhejiang University
+
+Email: [3240106213@zju.edu.cn](mailto:3240106213@zju.edu.cn)
